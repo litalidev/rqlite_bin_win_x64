@@ -7,4 +7,5 @@ Build environment:
 msys2:
 
 gcc.exe (Rev2, Built by MSYS2 project) 6.3.0
+
 go version go1.8 windows/amd64
